@@ -1,3 +1,9 @@
+- 👋 Hi, I’m @wenbingshen
+- 👀 I’m interested in messaging systems like Kafka, Pulsar.
+- 🌱 I’m currently working in Sina Weibo. 
+- 📫 My personal email is oliver.shen999@gmail.com
+
+
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=wenbingshen&show_icons=true&count_private=true)](https://github.com/wenbingshen)
 <!-- ### Hi there 👋
 
