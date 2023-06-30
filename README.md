@@ -9,8 +9,8 @@
 
 ### I want to achieve the following more advanced goal.
 - [x] To be [StreamNaitve KoP](https://github.com/streamnative/kop) maintainer.
-- [ ] To be [Apache Pulsar](https://github.com/apache/pulsar) committer.
 - [x] To be [Apache Bookkeeper](https://github.com/apache/bookkeeper) committer.
+- [ ] To be [Apache Pulsar](https://github.com/apache/pulsar) committer.
 
 
 
