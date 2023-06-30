@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @wenbingshen
 - 👀 I’m interested in messaging systems like Kafka, Pulsar.
 - 🌱 I’m currently working in Sina Weibo. 
-- 🐣 I'm now a contributor to Apache Pulsar/BookKeeper/Kafka and I'm also the KoP Maintainer.
+- 🐣 I'm now an Apache BookKeeper Committer | StreamNative KoP Maintainer | Apache Pulsar/Kafka Contributor.
 - 📫 My personal email is oliver.shen999@gmail.com
 
 
@@ -10,7 +10,7 @@
 ### I want to achieve the following more advanced goal.
 - [x] To be [StreamNaitve KoP](https://github.com/streamnative/kop) maintainer.
 - [ ] To be [Apache Pulsar](https://github.com/apache/pulsar) committer.
-- [ ] To be [Apache Bookkeeper](https://github.com/apache/bookkeeper) committer.
+- [x] To be [Apache Bookkeeper](https://github.com/apache/bookkeeper) committer.
 
 
 
