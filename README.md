@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @wenbingshen
-- 👀 I’m interested in messaging systems like Kafka, Pulsar.
+- 👀 I’m interested in messaging systems like Kafka, Pulsar and stream processing framework Flink.
 - 🌱 I’m currently working in Sina Weibo. 
-- 🐣 I'm now an Apache BookKeeper Committer | StreamNative KoP Maintainer | Apache Pulsar/Kafka Contributor.
-- 📫 My personal email is oliver.shen999@gmail.com
+- 🐣 I'm now an Apache BookKeeper Committer | StreamNative KoP Maintainer | Apache Pulsar/Kafka/Flink Contributor.
+- 📫 My personal email is oliver.shen999@gmail.com or shenwenbing@apache.org
 
 
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=wenbingshen&show_icons=true&count_private=true)](https://github.com/wenbingshen)
@@ -11,6 +11,7 @@
 - [x] To be [StreamNaitve KoP](https://github.com/streamnative/kop) maintainer.
 - [x] To be [Apache Bookkeeper](https://github.com/apache/bookkeeper) committer.
 - [ ] To be [Apache Pulsar](https://github.com/apache/pulsar) committer.
+- [ ] To be [Apache Flink](https://github.com/apache/flink) expert.
 
 
 
